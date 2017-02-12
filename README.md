@@ -1,5 +1,11 @@
-# Angular2Hn
+# Angular2-Hn 따라하기
+이 프로젝트는 블로그 https://houssein.me/angular2-hacker-news 의 내용을 그대로 따라한 결과입니다.
+Angular2와 Angular-Cli 스터디 목적
 
+해당 내용에 대한 보충 설명은 아래 주소에서 확인할 수 있습니다.
+https://tonyne.jeju.onl/2017/02/11/angular-cli-sample-hacker-news-angular2-hn/ 
+
+## 자동 생성내용
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
 ## Development server
