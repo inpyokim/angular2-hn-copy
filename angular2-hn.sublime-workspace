@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"serveStaticFile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n\t\"folders\":\n\t[\n\t\t{\n\t\t\t\"name\": \"angular2-hn\",\n\t\t\t\"path\": \"D:\\workspaces\\anguar2\\angular2-hn\",\n\t\t\t\"file_exclude_patterns\": [\".gitignore\"],\n\t\t\t\"file_include_patterns\": [\"*\"],\n\t\t\t\"folder_exclude_patterns\": [\"node_modules\"],\n\t\t\t\"folder_include_patterns\": [\"*\"],\n\t\t}\n\t]\n}",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Windows",
+				"name": "{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/workspaces/anguar2/angular2-hn"
+	],
+	"file_history":
+	[
+		"/D/workspaces/anguar2/angular2-hn/angular2-hn.sublime-workspace",
+		"/D/workspaces/anguar2/angular2-hn/node_modules/rxjs/Rx.d.ts",
+		"/D/workspaces/anguar2/angular2-hn/e2e/app.e2e-spec.ts",
+		"/D/workspaces/anguar2/angular2-hn/e2e/app.po.ts",
+		"/D/workspaces/anguar2/angular2-hn/e2e/tsconfig.json",
+		"/D/workspaces/anguar2/angular2-hn/src/environments/environment.ts",
+		"/D/Users/bgmin/.minttyrc",
+		"/C/Library/nodejs/node_modules/npm/npmrc",
+		"/C/Library/nodejs/npm.cmd",
+		"/D/workspaces/anguar2/angular2-hn/package.json",
+		"/D/workspaces/anguar2/angular2-hn/karma.conf.js",
+		"/C/Library/nodejs/node_modules/global/npm",
+		"/C/Library/nodejs/node_modules/global/npm.cmd",
+		"/C/Library/nodejs/node_modules/global/node_modules/npm/npmrc",
+		"/D/Users/bgmin/.bash_history",
+		"/D/Users/bgmin/.node_repl_history",
+		"/D/workspaces/javascript/1-Scopes.js",
+		"/D/workspaces/javascript/2-Closures.js",
+		"/D/workspaces/javascript/3-This.js",
+		"/D/workspaces/javascript/4-Prototype-Chains.js",
+		"/D/workspaces/javascript/console.html",
+		"/D/workspaces/firebase/js-app-ex01/public/index.html",
+		"/D/data/놀멍쉬멍_dev-테이블-dev_bis_station.sql",
+		"/D/data/jod_bus/DEV_BIS_STATION_DATA_TABLE.xml",
+		"/D/Users/bgmin/angular-cli.json",
+		"/D/data/jod_bus/생성됨-20160613095618.sql",
+		"/D/workspaces/typescript/tutorial-react/tsconfig.json",
+		"/D/workspaces/typescript/tutorial-react/src/components/hello.tsx",
+		"/D/workspaces/typescript/tutorial-react/src/index.tsx",
+		"/D/workspaces/typescript/tutorial-react/dist/bundle.js",
+		"/D/workspaces/typescript/tutorial-react/dist/bundle.js.map",
+		"/D/workspaces/typescript/tutorial-react/index.html",
+		"/D/workspaces/typescript/tutorial-react/webpack.config.js",
+		"/D/workspaces/typescript/tutorial-react/package.json",
+		"/D/workspaces/typescript/tutorial-react/src/components/index.tsx",
+		"/D/workspaces/typescript/ch02/ex01.ts",
+		"/D/workspaces/web-development-with-node-and-express/ch03/meadowlark.js",
+		"/D/workspaces/web-development-with-node-and-express/ch03/views/layouts/main.handlebars",
+		"/D/workspaces/web-development-with-node-and-express/ch03/package.json",
+		"/D/workspaces/web-development-with-node-and-express/ch03/views/home.handlebars",
+		"/D/workspaces/nodejs/book-ex/helloStatic.js",
+		"/D/workspaces/nodejs/book-ex/public/about.html",
+		"/D/workspaces/nodejs/book-ex/public/home.html",
+		"/D/workspaces/nodejs/book-ex/public/404.html",
+		"/C/Users/bgmin/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/JEJU.ONL.json",
+		"/C/users/bgmin/appdata/local/temp/sublime-sftp-browse-1484919978/Bitnine.json/home/bgmin/jetty_base/webapps/sigma-ex/ex02.html",
+		"/C/Users/bgmin/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/Bitnine.json",
+		"/C/Tools/jetty-9.4.0/bin/jetty_svc_install.bat",
+		"/D/jetty_base/webapps/d3-demo/d3-demo01.html",
+		"/D/jetty_base/webapps/d3-demo/miserables.json",
+		"/D/jetty_base/jetty_start.bat",
+		"/C/Tools/AgensGraph_for_Linux/repository/plugins/com.hangum.tadpole.cipher.core_1.0.0.201604230942.jar",
+		"/C/Tools/jetty-9.4.0/install.bat",
+		"/C/Tools/procrun/install.bat",
+		"/C/Tools/jetty-9.4.0/create_jetty_svc.bat",
+		"/C/Users/bgmin/workspaces/nodejs/myapp/app.js",
+		"/C/Users/bgmin/Documents/Daum/PotEncoder/preset/iPhone6 (1280x720).pes",
+		"/C/Tools/jetty-9.4.0/bin/jetty.sh",
+		"/C/Tools/jetty-9.4.0/etc/jetty.xml",
+		"/C/Tools/jetty-9.4.0/etc/jetty.conf",
+		"/C/Tools/jetty-9.4.0/etc/jetty-started.xml",
+		"/C/Tools/jetty-9.4.0/start.ini",
+		"/D/webapps/index.html",
+		"/C/Tools/jetty-9.4.0/demo-base/webapps/ROOT/index.html",
+		"/D/www/start.d/deploy.ini",
+		"/D/www/start.d/http.ini",
+		"/C/Windows/Resources/Themes/aero/aero.msstyles",
+		"/Z/Install/HWP 2014/크랙/x64_key.reg",
+		"/C/Users/bgmin/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"exec",
+			"webapp",
+			"80"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "angular2-hn.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
