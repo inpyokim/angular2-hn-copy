@@ -22,7 +22,7 @@ export class ItemComponent implements OnInit {
             .subscribe(
               data => { 
                 this.item = data; 
-                console.log( `item[${this.itemID}] = "${this.item['title']}"` ); 
+                // console.log( `item[${this.itemID}] = "${this.item['title']}"` ); 
               }, 
               error => console.log('Could not load item' + this.itemID)
             );

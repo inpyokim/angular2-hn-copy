@@ -3,6 +3,9 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
+import { AngularFireModule } from 'angularfire2';
+import { firebaseConfig } from './../environments/firebase.config';
+
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { StoriesComponent } from './stories/stories.component';
@@ -27,7 +30,8 @@ import {MomentModule} from 'angular2-moment';
     BrowserModule,
     FormsModule,
     HttpModule,
-    MomentModule
+    MomentModule,
+    AngularFireModule.initializeApp(firebaseConfig)    
   ],
   providers: [HackerNewsAPIService],
   bootstrap: [AppComponent]
